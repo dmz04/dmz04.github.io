@@ -52,17 +52,17 @@ document.addEventListener("DOMContentLoaded", function() {
             <h2>Conclusion:</h2>
             <p>Les poèmes des Cahiers de Douai sont les produits de l'effervescence intellectuelle d'un adolescent fugueur, épris d'idéal, d'amour, de liberté et de révolte. Ils sont à considérer comme un condensé d'inspirations poétiques diverses, qui empruntent autant à l'originalité créative du XIX® qu'aux œuvres de l'antiquité. La portée émancipatrice du recueil réside dans la diversité de ses sujets et de ses formes. Qu'il s'agisse de critiquer une société en crise ou de dire l'instabilité émotionnelle d'un garçon extrêmement sensible, il est partout question de ne pas se satisfaire de l'autorité qui opprime l'individu ou de l'environnement qui le lasse. Ce renouvellement de la poésie moderne que propose Rimbaud hante tout le vingtième siècle et nous parvient, encore aujourd'hui, comme un exemple rare de rupture avec les conventions, qu'elles soient sociales ou esthétiques</p>
         `,
-        "la-rage-de-l'expression": "<p>Contenu de 'La Rage de l'expression'.</p>",
-        "mes-forets": "<p>Contenu de 'Mes forêts'.</p>",
-        "le-menteur": "<p>Contenu de 'Le Menteur'.</p>",
-        "on-ne-badine-pas-avec-l'amour": "<p>Contenu de 'On ne badine pas avec l'amour'.</p>",
-        "pour-un-oui-ou-pou-un-non": "<p>Contenu de 'Pour un oui ou pour un non'.</p>",
-        "gargantua": "<p>Contenu de 'Gargantua'.</p>",
-        "les-caracteres": "<p>Contenu de 'Les Caractères'.</p>",
-        "declaration-des-droits-de-la-femme-et-de-la-citoyenne": "<p>Contenu de 'Déclaration des droits de la femme et de la citoyenne'.</p>",
-        "manon-lescaut": "<p>Contenu de 'Manon Lescaut'.</p>",
-        "la-peau-de-chagrin": "<p>Contenu de 'La Peau de chagrin'.</p>",
-        "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Contenu de 'sido suivi de les vrilles de la vigne'.</p>",
+        "la-rage-de-l'expression": "<p>Aucune analyse pour 'La Rage de l'expression'.</p>",
+        "mes-forets": "<p>Aucune analyse pour 'Mes forêts'.</p>",
+        "le-menteur": "<p>Aucune analyse pour 'Le Menteur'.</p>",
+        "on-ne-badine-pas-avec-l'amour": "<p>Aucune analyse pour 'On ne badine pas avec l'amour'.</p>",
+        "pour-un-oui-ou-pou-un-non": "<p>Aucune analyse pour 'Pour un oui ou pour un non'.</p>",
+        "gargantua": "<p>Aucune analyse pour 'Gargantua'.</p>",
+        "les-caracteres": "<p>Aucune analyse pour 'Les Caractères'.</p>",
+        "declaration-des-droits-de-la-femme-et-de-la-citoyenne": "<p>Aucune analyse pour 'Déclaration des droits de la femme et de la citoyenne'.</p>",
+        "manon-lescaut": "<p>Aucune analyse pour 'Manon Lescaut'.</p>",
+        "la-peau-de-chagrin": "<p>Aucune analyse pour 'La Peau de chagrin'.</p>",
+        "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Aucune analyse pour 'sido suivi de les vrilles de la vigne'.</p>",
     };
 
     // Affiche le nom complet de l'œuvre et son contenu
