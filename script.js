@@ -5,6 +5,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const titreOeuvre = document.getElementById("titre-oeuvre");
     const texteOeuvre = document.getElementById("texte-oeuvre");
 
+    console.log("Nom de l'œuvre récupéré :", oeuvre);
+
     const oeuvres = {
         "les-cahiers-de-douai": "1. Les Cahiers de Douai",
         "la-rage-de-l'expression": "2. La Rage de l'expression",
