@@ -1,0 +1,197 @@
+<script>
+    // Fonction pour inclure le contenu de footer.html
+    function includeFooter() {
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.body.insertAdjacentHTML('beforeend', data);
+            })
+            .catch(error => console.error('Erreur lors du chargement du footer:', error));
+    }
+
+    // Appel de la fonction pour inclure le footer
+    includeFooter();
+</script>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    color: #333;
+}
+
+header {
+    background: url('images/parchemin.jpg') no-repeat center center/cover;
+    color: #000000;
+    padding: 2rem;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+.sous-titre {
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Georgia', serif;
+    margin-top: 1.5rem;
+    color: #000000;
+}
+
+.oeuvres-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.oeuvres-list li {
+    background: #dcdcdc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+    padding: 1rem;
+}
+
+.oeuvres-list li img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.oeuvres-list li span {
+    display: block;
+    margin-top: 0.5rem;
+    font-weight: bold;
+    color: #3c3c9d;
+    text-decoration: none;
+}
+
+.oeuvres-list li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+footer {
+    background-color: #d3d3d3; /* Gris clair pour l'encadré */
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+footer p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s ease;
+}
+
+.social-icons img:hover {
+    transform: scale(1.1); /* Zoom léger à l'hover */
+}
+
+.titre-centre {
+    text-align: center;
+    font-size: 2.5em;
+    color: #000;
+    font-family: 'Georgia', serif; /* Choisis une police d'écriture différente */
+    margin-top: 50px;
+}
+
+#contenu-oeuvre {
+    margin: 20px auto;
+    max-width: 800px;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+.titre-centre {
+    text-align: center;
+    font-size: 2.5em;
+    color: #000;
+    font-family: 'Georgia', serif; /* Ou une autre police de ton choix */
+    margin-top: 20px;
+}
+
+.oeuvre-titre-centre {
+    text-align: center;
+    font-size: 2em;
+    color: #000;
+    font-family: 'Arial', sans-serif; /* Choix de la police pour le nom de l'œuvre */
+    margin: 20px 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+.attention {
+    border: 2px solid #3498db;
+    background-color: #ecf7ff;
+    padding: 10px;
+    margin: 20px 0;
+    color: #3498db;
+    font-weight: bold;
+}
+
+.definition {
+    border: 2px solid #3498db;
+    background-color: #ecf7ff;
+    padding: 10px;
+    margin: 10px 0;
+    color: #3498db;
+}
+
+h2 {
+    color: #2c3e50;
+    margin-top: 20px;
+}
+
+
