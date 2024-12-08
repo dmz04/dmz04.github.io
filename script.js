@@ -118,7 +118,6 @@ document.addEventListener("DOMContentLoaded", function() {
     };
 
 
-
         // Affiche le nom complet de l'œuvre et son contenu
     if (oeuvre && oeuvres[oeuvre]) {
         titreOeuvre.textContent = oeuvres[oeuvre];
