@@ -4,8 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const titreOeuvre = document.getElementById("titre-oeuvre");
     const texteOeuvre = document.getElementById("texte-oeuvre");
-
+    
     console.log("Nom de l'œuvre récupéré :", oeuvre);
+
 
     const oeuvres = {
         "les-cahiers-de-douai": "1. Les Cahiers de Douai",
@@ -54,7 +55,56 @@ document.addEventListener("DOMContentLoaded", function() {
             <h2>Conclusion:</h2>
             <p>Les poèmes des Cahiers de Douai sont les produits de l'effervescence intellectuelle d'un adolescent fugueur, épris d'idéal, d'amour, de liberté et de révolte. Ils sont à considérer comme un condensé d'inspirations poétiques diverses, qui empruntent autant à l'originalité créative du XIX® qu'aux œuvres de l'antiquité. La portée émancipatrice du recueil réside dans la diversité de ses sujets et de ses formes. Qu'il s'agisse de critiquer une société en crise ou de dire l'instabilité émotionnelle d'un garçon extrêmement sensible, il est partout question de ne pas se satisfaire de l'autorité qui opprime l'individu ou de l'environnement qui le lasse. Ce renouvellement de la poésie moderne que propose Rimbaud hante tout le vingtième siècle et nous parvient, encore aujourd'hui, comme un exemple rare de rupture avec les conventions, qu'elles soient sociales ou esthétiques</p>
         `,
-        "la-rage-de-l'expression": "<p>Aucune analyse pour 'La Rage de l'expression'.</p>",
+        "la-rage-de-l'expression": `
+        <h2>Introduction:</h2>
+            <p>La Rage de l'expression est l'une des œuvres les plus marquantes de Francis Ponge, un écrivain et poète français du XXe siècle, connu pour son approche unique de la poésie. Ponge s'est consacré à explorer la relation entre les mots et le monde, en se demandant comment rendre le réel le plus fidèlement possible à travers le langage. Cette œuvre, au titre évocateur, est bien plus qu'une simple démonstration littéraire ; elle est une réflexion sur le pouvoir et la limite du langage.</p>
+            <p>L'écriture de Ponge repose sur l'idée que le langage, tout en étant un instrument puissant de communication, reste un outil imparfait pour capturer la réalité dans toute sa complexité. Cette interrogation l'amène à adopter un style qui défie les conventions littéraires traditionnelles, en privilégiant une prose poétique, minutieuse et pleine de détails. Dans La Rage de l'expression, Ponge ne se contente pas de décrire des objets ; il les interroge, les examine, et cherche à révéler la poésie qui réside dans leur essence même. C'est un travail d'exploration, de recherche de la vérité cachée derrière les apparences, qui demande au lecteur de ralentir et de s'attarder sur l'infime et l'ordinaire.</p>
+
+            <h2>1. Saisir l’insaisissable</h2>
+            <p>L’œuvre de Francis Ponge questionne la faculté de la littérature à désigner justement notre environnement. Elle nous rappelle sans cesse que les mots sont des outils parfois faibles, car ils sont soumis à l’interprétation. Mais la malléabilité de la langue est aussi ce qui fait sa richesse et sa beauté. En utilisant la poésie rigoureusement possible, il semble possible de se tenir au plus près des hommes et du monde, à défaut de les comprendre absolument.</p>
+    
+            <h3>La poésie en question</h3>
+            <p>La perception de ce qui nous entoure varie constamment, autant que les ressources de la parole sont inépuisables. Dans ce contexte, comment rester fidèle à une esthétique plutôt qu’à une autre ? Comment ne pas remettre constamment en cause son travail de poète ? Ces questions sont au cœur des interrogations de Ponge, et sa réponse est radicale : il est primordial de savoir changer de style et de s’écarter des « cénacles littéraires ». Son parcours est remarquable parce qu’il aura su se faire des amitiés auprès des représentants de toutes les mouvances politiques de son siècle.</p>
+    
+            <div class="definition">
+                <strong>Définition :</strong> 
+                <p><strong>Cénacle :</strong> Cercle restreint de personnalités réunies dans un but commun.</p>
+            </div>
+    
+            <p>Il est important de préciser que Ponge n’est pas seulement écrivain et qu’il ne parviendra à vivre de ses livres que tardivement dans son existence. Bien sûr, il se passionne tôt pour la philosophie (pendant la Première Guerre mondiale) et publie dès lors des œuvres littéraires dès l’âge de vingt ans. Mais pendant plusieurs années, il gagne sa vie en travaillant dans des maisons d’édition, des compagnies d’assurance ou comme professeur. De plus, il s’engage dans la société dans ses marges, en lien au parti communiste ou à la Résistance contre l’occupant nazi. Ces diverses activités, cumulées à une pratique littéraire singulière, font que sa notoriété reste discrète jusqu’en 1942, date de la publication du <em>Parti pris des choses</em>.</p>
+    
+            <h3>Un poète des « objets » ?</h3>
+            <p>Partant du principe que Ponge, principalement dans <em>Le Parti pris des choses</em>, nous pousse à connaître les choses dans leur intimité et dans leurs détails, il invite à souligner que l’ordinaire mérite autant d’attention que l’extraordinaire. Sartre perçoit très rapidement ce qu’il y a de profondément original chez ce poète.</p>
+    
+            <div class="definition">
+                <p><strong>Pétrification :</strong> Rendre à l’état d’immobilité totale.</p>
+            </div>
+    
+            <h3>Exemple</h3>
+            <p>Dans <em>L’Huître</em>, le poète se concentre sur la description de la matérialité du mollusque :</p>
+            <blockquote>
+                « Une coquille vaguement bombée, une rugosité d’écorce de bois, brillant blanchâtre. »
+            </blockquote>
+    
+            <h2>2) Une prose qui réveille son lecteur</h2>
+            <p>Ponge est un écrivain qui se débat avec les mots autant qu’avec sa propre perception. Ce travail est un travail solitaire et exigeant. Mais pour autant, il ne s’arrête pas au seul regard lui-même. <em>Dans La rage de l’expression</em>, le poète inclut pleinement son lecteur dans sa démarche créative.</p>
+    
+            <h3>Exhiber une méthode</h3>
+            <p>Le journal poétique de Ponge est comme un journal de bord. Il dévoile une méthode, c’est-à-dire un chemin emprunté pour parvenir à dérouler une démonstration.</p>
+    
+            <div class="example">
+                <p>Voici deux manières, symétriquement présentées, d’évoquer l’aillet sans dire son nom dans <em>La rage de l’expression</em> :</p>
+                <blockquote>
+                    <ul>
+                        <li>Papillote chiffon frais</li>
+                        <li>Froissé de luxe à belles dents</li>
+                    </ul>
+                </blockquote>
+            </div>
+    
+            <h2>Conclusion</h2>
+            <p><p>La Rage de l'expression n'est pas seulement un exercice de style ; c'est une révolte contre la superficialité des mots et une quête de leur essence. Par son approche, Francis Ponge nous rappelle que la littérature peut être un vecteur puissant de prise de conscience et de contemplation. Dans cette œuvre, il parvient à transformer un acte littéraire en un défi à la perception, invitant chacun à voir au-delà de la surface et à redécouvrir le monde dans sa richesse la plus subtile. En cela, La Rage de l'expression reste une œuvre qui résonne comme une ode à la précision, à l'exploration et à la remise en question des vérités établies. Cette démarche poétique, exigeante et innovante, continue de captiver et d'inspirer les lecteurs, en témoignant de l'engagement indéfectible de Ponge à utiliser l'écriture comme un outil pour comprendre et représenter le réel.</p>
+        `,
         "mes-forets": "<p>Aucune analyse pour 'Mes forêts'.</p>",
         "le-menteur": "<p>Aucune analyse pour 'Le Menteur'.</p>",
         "on-ne-badine-pas-avec-l'amour": "<p>Aucune analyse pour 'On ne badine pas avec l'amour'.</p>",
@@ -67,7 +117,9 @@ document.addEventListener("DOMContentLoaded", function() {
         "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Aucune analyse pour 'sido suivi de les vrilles de la vigne'.</p>",
     };
 
-    // Affiche le nom complet de l'œuvre et son contenu
+
+
+        // Affiche le nom complet de l'œuvre et son contenu
     if (oeuvre && oeuvres[oeuvre]) {
         titreOeuvre.textContent = oeuvres[oeuvre];
         texteOeuvre.innerHTML = contenus[oeuvre] || "<p>Contenu de l'œuvre non disponible.</p>";
@@ -76,3 +128,4 @@ document.addEventListener("DOMContentLoaded", function() {
         texteOeuvre.innerHTML = "<p>Aucune analyse disponible pour cette œuvre.</p>";
     }
 });
+
