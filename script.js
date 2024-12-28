@@ -105,95 +105,24 @@ document.addEventListener("DOMContentLoaded", function() {
             <h2>Conclusion</h2>
             <p><p>La Rage de l'expression n'est pas seulement un exercice de style ; c'est une révolte contre la superficialité des mots et une quête de leur essence. Par son approche, Francis Ponge nous rappelle que la littérature peut être un vecteur puissant de prise de conscience et de contemplation. Dans cette œuvre, il parvient à transformer un acte littéraire en un défi à la perception, invitant chacun à voir au-delà de la surface et à redécouvrir le monde dans sa richesse la plus subtile. En cela, La Rage de l'expression reste une œuvre qui résonne comme une ode à la précision, à l'exploration et à la remise en question des vérités établies. Cette démarche poétique, exigeante et innovante, continue de captiver et d'inspirer les lecteurs, en témoignant de l'engagement indéfectible de Ponge à utiliser l'écriture comme un outil pour comprendre et représenter le réel.</p>
         `,
-         "mes-forets": ` 
-        <h2>Introduction:</h2>
-        <p>
-            Lire <em>Mes forêts</em> d'Hélène Dorion, c'est faire éclater des frontières : celles entre 
-            "l'espace du dedans", comme dirait Michaux, et l'espace du dehors, celles entre le passé, 
-            le présent et l'avenir, celles entre l'art et la vie. La poésie de Dorion est exploratoire. 
-            Par le mot et la promenade, elle permet de découvrir la nature sauvage canadienne, 
-            les inquiétudes intimes d'une société intellectuelle qui est aussi artiste contemporaine, 
-            la plasticité de la langue française, les métamorphoses possibles d'une identité propre 
-            face aux bouleversements des nouvelles technologies, etc.
-        </p>
-        <h2>1. Le recueil poétique comme une opération de tissage</h2>
-        <p>
-            <em>Mes forêts</em> est l'œuvre d'une autrice qui est aussi une intellectuelle. 
-            Elle tisse des liens entre des idées sans en donner une lecture unique, 
-            dans un équilibre entre toutes ces influences.
-        </p>
-        <h3>Dire la fragilité du monde</h3>
-        <p>
-            Tisser des liens entre l'homme et le monde est une opération délicate alors que 
-            l'un et l'autre sont perçus comme éphémères, mais l'équilibre de l'écriture réussit 
-            à éviter tout désespoir. Ainsi, ses poèmes sont empreints d'une vitalité qui met 
-            en lumière la richesse de ces interconnexions. Dorion construit des images de forêts 
-            traversées par des émotions, mais elle ne cède jamais à la pétrification de l'être 
-            humain ou du vivant.
-        </p>
-        <div className="definition">
-            <strong>Définition :</strong>
-            <p><strong>Périssable :</strong> Qui ne dure pas, qui peut disparaître rapidement.</p>
-        </div>
-        <h2>2. L'autre comme un miroir</h2>
-        <p>
-            Le miroir, au sens littéraire et poétique, occupe une place majeure dans la poétique de Dorion. 
-            Il est un élément à la fois introspectif et ouvert sur autrui. Ce va-et-vient entre l'intérieur 
-            et l'extérieur donne tout son sens au recueil.
-        </p>
-        <h3>Une libre promenade</h3>
-        <p>
-            Les promenades dans <em>Mes forêts</em> ne se contentent pas de refléter des paysages, 
-            mais elles traduisent une volonté d'exploration personnelle. Cela passe par des correspondances 
-            entre les sensations et l'équilibre des descriptions.
-        </p>
-        <div className="definition">
-            <p><strong>Sylvestre :</strong> Relatif à la forêt.</p>
-        </div>
-        <div className="definition">
-            <p><strong>Personnification :</strong> Représentation d'une idée abstraite, d'un animal ou 
-                d'une chose sous les traits d'une personne.</p>
-        </div>
-        <h2>Intimité, universalité</h2>
-        <p>
-            De la liberté cyclique de Dorion dans son écriture aux thèmes universels qu'elle aborde, 
-            tels que l'appartenance et l'écologie, elle parvient à mettre en évidence la place de 
-            l'humain dans le cycle naturel.
-        </p>
-        <div className="example">
-            <p>"Ce n'est pas déplacer l'arbre en nous, mais d'enraciner l'être dans cette terre 
-                qui passe l'horizon."</p>
-        </div>
-        <div className="definition">
-            <p><strong>Rêveur :</strong> État d'un esprit occupé par des idées vagues.</p>
-        </div>
-        <h2>Conclusion</h2>
-        <p>
-            Avec <em>Mes forêts</em>, Hélène Dorion redonne une place centrale à la poésie dans la perception 
-            du monde. Elle incite à ralentir, à contempler, et à percevoir les échos subtils entre 
-            la nature et l'humain, rappelant que chaque instant peut contenir une universalité accessible. 
-            Ce recueil est à la fois une ode à la forêt et une invitation à la reconnection avec le vivant.
-        </p>
-    </>,
-        "le-menteur": "<p>Aucune analyse pour 'Le Menteur'.</p>",
-        "on-ne-badine-pas-avec-l'amour": "<p>Aucune analyse pour 'On ne badine pas avec l'amour'.</p>",
-        "pour-un-oui-ou-pou-un-non": "<p>Aucune analyse pour 'Pour un oui ou pour un non'.</p>",
-        "gargantua": "<p>Aucune analyse pour 'Gargantua'.</p>",
-        "les-caracteres": "<p>Aucune analyse pour 'Les Caractères'.</p>",
-        "declaration-des-droits-de-la-femme-et-de-la-citoyenne": "<p>Aucune analyse pour 'Déclaration des droits de la femme et de la citoyenne'.</p>",
-        "manon-lescaut": "<p>Aucune analyse pour 'Manon Lescaut'.</p>",
-        "la-peau-de-chagrin": "<p>Aucune analyse pour 'La Peau de chagrin'.</p>",
-        "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Aucune analyse pour 'sido suivi de les vrilles de la vigne'.</p>",
-    };
+            "mes-forets": "<p>Aucune analyse pour 'Mes forêts'.</p>",
+            "le-menteur": "<p>Aucune analyse pour 'Le Menteur'.</p>",
+            "on-ne-badine-pas-avec-l'amour": "<p>Aucune analyse pour 'On ne badine pas avec l'amour'.</p>",
+            "pour-un-oui-ou-pou-un-non": "<p>Aucune analyse pour 'Pour un oui ou pour un non'.</p>",
+            "gargantua": "<p>Aucune analyse pour 'Gargantua'.</p>",
+            "les-caracteres": "<p>Aucune analyse pour 'Les Caractères'.</p>",
+            "declaration-des-droits-de-la-femme-et-de-la-citoyenne": "<p>Aucune analyse pour 'Déclaration des droits de la femme et de la citoyenne'.</p>",
+            "manon-lescaut": "<p>Aucune analyse pour 'Manon Lescaut'.</p>",
+            "la-peau-de-chagrin": "<p>Aucune analyse pour 'La Peau de chagrin'.</p>",
+            "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Aucune analyse pour 'sido suivi de les vrilles de la vigne'.</p>",
+        };
 
 
 
-        // Affiche le nom complet de l'œuvre et son contenu
-    if (oeuvre && oeuvres[oeuvre]) {
-        titreOeuvre.textContent = oeuvres[oeuvre];
-        texteOeuvre.innerHTML = contenus[oeuvre] || "<p>Contenu de l'œuvre non disponible.</p>";
-    } else {
-        titreOeuvre.textContent = "Œuvre non trouvée";
-        texteOeuvre.innerHTML = "<p>Aucune analyse disponible pour cette œuvre.</p>";
-    }
-});
+// Affiche le nom complet de l'œuvre et son contenu
+if (oeuvre && oeuvres[oeuvre]) {titreOeuvre.textContent = oeuvres[oeuvre]};
+    texteOeuvre.innerHTML = contenus[oeuvre] || "<p>Contenu de l'œuvre non disponible.</p>";
+} , {texteOeuvre,textContent : "Œuvre non trouvée"})
+    texteOeuvre.innerHTML = "<p>Aucune analyse disponible pour cette œuvre.</p>";
+
+
