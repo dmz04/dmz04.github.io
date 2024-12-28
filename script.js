@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "la-peau-de-chagrin": "11. La Peau de chagrin",
         "sido-suivi-de-les-vrilles-de-la-vigne": "12. Sido suivi de Les Vrilles de la vigne"
     };
-
     const contenus = {
         "les-cahiers-de-douai": `
             <h2>Introduction:</h2>
@@ -116,9 +115,6 @@ document.addEventListener("DOMContentLoaded", function() {
             "la-peau-de-chagrin": "<p>Aucune analyse pour 'La Peau de chagrin'.</p>",
             "sido-suivi-de-les-vrilles-de-la-vigne": "<p>Aucune analyse pour 'sido suivi de les vrilles de la vigne'.</p>",
         };
-
-
-
 // Affiche le nom complet de l'œuvre et son contenu
 if (oeuvre && oeuvres[oeuvre]) {titreOeuvre.textContent = oeuvres[oeuvre]};
     texteOeuvre.innerHTML = contenus[oeuvre] || "<p>Contenu de l'œuvre non disponible.</p>";
