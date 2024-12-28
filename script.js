@@ -106,7 +106,6 @@ document.addEventListener("DOMContentLoaded", function() {
             <p><p>La Rage de l'expression n'est pas seulement un exercice de style ; c'est une révolte contre la superficialité des mots et une quête de leur essence. Par son approche, Francis Ponge nous rappelle que la littérature peut être un vecteur puissant de prise de conscience et de contemplation. Dans cette œuvre, il parvient à transformer un acte littéraire en un défi à la perception, invitant chacun à voir au-delà de la surface et à redécouvrir le monde dans sa richesse la plus subtile. En cela, La Rage de l'expression reste une œuvre qui résonne comme une ode à la précision, à l'exploration et à la remise en question des vérités établies. Cette démarche poétique, exigeante et innovante, continue de captiver et d'inspirer les lecteurs, en témoignant de l'engagement indéfectible de Ponge à utiliser l'écriture comme un outil pour comprendre et représenter le réel.</p>
         `,
          "mes-forets": 
-    <>
         <h2>Introduction:</h2>
         <p>
             Lire <em>Mes forêts</em> d'Hélène Dorion, c'est faire éclater des frontières : celles entre 
